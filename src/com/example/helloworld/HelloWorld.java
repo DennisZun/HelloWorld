@@ -9,5 +9,7 @@ public class HelloWorld {
         System.out.println("it's me, wombat!");
         System.out.println("regel 4");
         System.out.println("test regel 3");
+        System.out.println("tesr regel kerstavond");
+        System.out.println("deze regel alleen in de nieuwe branch");
     }
 }
