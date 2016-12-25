@@ -6,5 +6,6 @@ package com.example.helloworld;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("alleen in drie zie je een drie: 3");
+        System.out.println("HelloWorld.main");
     }
 }
