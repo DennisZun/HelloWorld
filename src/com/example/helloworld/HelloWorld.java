@@ -5,12 +5,6 @@ package com.example.helloworld;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World! Dennis!");
-        System.out.println("it's me, wombat!");
-        System.out.println("regel 4");
-        System.out.println("test regel 3");
-        System.out.println("tesr regel kerstavond");
-        System.out.println("deze regel alleen in de nieuwe branch");
-        System.out.println("25 dec. online toegevoegd");
+        System.out.println("alleen in drie zie je een drie: 3");
     }
 }
